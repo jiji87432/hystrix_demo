@@ -1,51 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/9now/mwee-service-sample" value="16063732498000" />
-        <entry key="$USER_HOME$/9now/mwee_alipay_manage" value="13323650643000" />
-        <entry key="$USER_HOME$/9now/mwee_common_utils" value="1460339323000" />
-        <entry key="$USER_HOME$/9now/mwee_paidui_soa" value="14765707966000" />
-        <entry key="$USER_HOME$/9now/mwee_route_plat" value="16303402089000" />
-        <entry key="$USER_HOME$/9now/mwee_shop_admin" value="16260976683000" />
-        <entry key="$USER_HOME$/9now/mwee_shop_soa" value="17723677324000" />
-        <entry key="$USER_HOME$/9now/mwee_soa_demo" value="17785523004000" />
-        <entry key="$USER_HOME$/9now/pd_service_thrift" value="1475981083000" />
-        <entry key="$USER_HOME$/9now/shop/mwee_paidui_soa" value="14714503090000" />
-        <entry key="$USER_HOME$/9now/shop/mwee_shop_soa" value="13249249974000" />
-        <entry key="$USER_HOME$/9now/shop_admin_thrift" value="1478327025000" />
-        <entry key="$USER_HOME$/9now/shop_service_thrift" value="1476097694000" />
-        <entry key="$USER_HOME$/Desktop/soa/mwee_alipay_manage" value="16284331697000" />
-        <entry key="$USER_HOME$/Desktop/soa/mwee_route_plat" value="14821266501000" />
-        <entry key="$USER_HOME$/Desktop/soa/mwee_soa_demo" value="17757801120000" />
-        <entry key="$USER_HOME$/Desktop/soa/mwee_user_soa" value="16280371943000" />
-        <entry key="$USER_HOME$/Downloads/mwee_shop_admin" value="17738632104000" />
-        <entry key="$USER_HOME$/Downloads/shop_admin_thrift" value="1478222918000" />
-        <entry key="$PROJECT_DIR$/../dubbox-demo" value="2962355442000" />
-        <entry key="$PROJECT_DIR$" value="2973776207000" />
-        <entry key="$USER_HOME$/mwee-service-sample" value="14601353940000" />
-        <entry key="$USER_HOME$/mwee_common_utils" value="1460079707000" />
-        <entry key="$USER_HOME$/mwee_paidui_soa" value="14665957550000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/mytool/maven" />
-        <option name="userSettingsFile" value="$USER_HOME$/mytool/maven/conf/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="PDMPlugin">
     <option name="skipTestSources" value="false" />
   </component>
